@@ -1,0 +1,13 @@
+torch>=2.6.0
+torchvision>=0.16.0
+transformers>=4.38.0
+safetensors>=0.4.0
+pillow>=10.0.0
+numpy>=1.26.0
+scikit-learn>=1.4.0
+pandas>=2.2.0
+streamlit>=1.33.0
+plotly>=5.18.0
+ultralytics>=8.1.0
+sentencepiece>=0.2.0
+protobuf>=4.25.0
